@@ -22,7 +22,7 @@ font-size: 14px;
 .logo{
     display: flex;
 
-    margin-right: 470px;
+    margin-right: 350px;
     margin-left: 70px;
     align-items: left;
 }
@@ -38,6 +38,7 @@ align-items: center;
 .nav1{
     display: flex;
     gap: 68px;
+    color: #8172d5;
 }
 
 .lupa{
@@ -48,10 +49,12 @@ align-items: center;
     /* align-items: center; */
     /* border: 5px solid red; */
     background-color: #f2f5f8;
+   
 }
 i{
 background-color: #8172d5;
 padding: 12px;
+border-radius: 5px;
 }
 /* სექცია */
 section{
