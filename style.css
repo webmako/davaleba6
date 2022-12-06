@@ -80,6 +80,7 @@ figure{
     background-color: #ffffff;
     height: 368px;
     width: 260px;
+    border-radius: 30px;
 }
 
 .cardfoto{
