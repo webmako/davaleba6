@@ -1,0 +1,111 @@
+body{
+    background-color:#f2f5f8 ;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+.all{
+margin: 0 auto;
+/* max-width: 1300px; */
+width: 100%;
+}
+
+header{
+margin: o auto;
+display: flex;
+align-items: center;
+padding: 36px 0;
+background-color: #ffffff;
+font-size: 14px;
+}
+
+.logo{
+    display: flex;
+
+    margin-right: 470px;
+    margin-left: 70px;
+    align-items: left;
+}
+
+
+.navigacia{
+display: flex;
+justify-content: space-evenly;
+gap: 107px;
+align-items: center;
+}
+
+.nav1{
+    display: flex;
+    gap: 68px;
+}
+
+.lupa{
+   display: flex;
+    width: 227px;
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: center; */
+    /* border: 5px solid red; */
+    background-color: #f2f5f8;
+}
+i{
+background-color: #8172d5;
+padding: 12px;
+}
+/* სექცია */
+section{
+    margin: 0 auto;
+    width: 90%;
+    /* display: flex; */
+    justify-content: space-between;
+   background-color: #f2f5f8; 
+}
+h1{
+    padding-top: 59px;
+    padding-bottom: 28px;
+    font-size: 18px;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 795px;
+    background-color: #f2f5f8;
+}
+
+figure{
+    width: 23%;
+    background-color: #ffffff;
+    height: 368px;
+    width: 260px;
+}
+
+.cardfoto{
+    padding: 18px 18px 76px 18px;
+}
+figcaption{
+    padding: 0 41px 21px 18px;
+    font-size: 20px;
+}
+footer{
+    display: flex;
+    margin: o auto;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    background-color: #758bfd;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 36px 0;
+    
+}
+
+.nav2{
+display: flex;
+    gap: 111px
+}
+.footerlogo{
+    margin-right: 600px;
+    margin-left: 80px;
+}
